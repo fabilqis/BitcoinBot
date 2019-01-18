@@ -21,7 +21,10 @@ You can try a conversation and make a request to Buy or Sell Bitcoin and Bot wil
 - sell coin 10 price 10 fees 10
 - I want to sell coin 10 with price 10 and fees 10
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6df177af4321fbf22b800b75a6a1681e9081c022
 Telegram bot name : [SuperBitcoinBot](t.me/amazing_coin_bot)
 
 Running Locally in your machine :
